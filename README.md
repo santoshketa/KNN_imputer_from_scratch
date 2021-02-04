@@ -2,7 +2,9 @@
 
 
 -Here I have created KNN and KNN_imputer from scratch using python.
+
 -Both knn and weighted Knn imputer function take input dataframe having nan and then outputs the imputed values in a dataframe based on KNN approach.
+
 -Here we can also output k nearest neighbour for the point we want by slightly changing the code.
 
 Explanation of results
